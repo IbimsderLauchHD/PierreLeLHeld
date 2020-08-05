@@ -24,11 +24,11 @@ extents = Vector2( 16.9332, 49.8108 )
 script = ExtResource( 3 )
 
 [node name="Pierre" type="AnimatedSprite" parent="."]
-position = Vector2( 50.1768, 50.1768 )
+position = Vector2( 408.764, 82.6072 )
 scale = Vector2( 4.13605, 4.13605 )
 frames = SubResource( 1 )
 animation = "Idle"
 
 [node name="Collision" type="CollisionShape2D" parent="."]
-position = Vector2( 50.2783, 58.1839 )
+position = Vector2( 408.866, 90.6143 )
 shape = SubResource( 2 )

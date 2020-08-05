@@ -4,7 +4,7 @@ extends KinematicBody2D
 # VARIABLEN
 
 export var max_speed = 500
-export var acceleration = 1000
+export var acceleration = 2500
 
 var motion = Vector2.ZERO
 
